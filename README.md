@@ -1,2 +1,2 @@
 # SIPs
-SIPs stands for Software In Progress
+stands for Software In Progress
